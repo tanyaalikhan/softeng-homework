@@ -1,0 +1,43 @@
+function table(){
+    return(
+        <div>
+            <table>
+                <tr>
+                    <td>
+                        cookies
+                    </td>
+                    <td>
+                        baklava
+                    </td>
+                    <td>
+                        rasmalai
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        yum
+                    </td>
+                    <td>
+                        yummy
+                    </td>
+                    <td>
+                        yummIER
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        gross
+                    </td>
+                    <td>
+                        grosser
+                    </td>
+                    <td>
+                        grossest
+                    </td>
+                </tr>
+            </table>
+        </div>
+    )
+}
+
+export default table;
