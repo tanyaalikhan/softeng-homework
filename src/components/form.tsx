@@ -3,36 +3,36 @@ function form(){
    return (
        <div>
            <p>
-               Text area:
+               What are your hobbies?
            </p>
            <textarea>
            </textarea>
 
            <div>
                <label>
-                   lol
+                   Baking
                </label>
                <input type="checkbox"></input>
                <label>
-                   lol
+                   Painting
                </label>
                <input type="checkbox"></input>
                <label>
-                   lol
+                   Diving
                </label>
                <input type="checkbox"></input>
            </div>
 
            <label>
-               radio 1
+               Green Tea
                <input type={"radio"} name={"selectOne"}/>
            </label>
            <label>
-               radio 2
+               Milk Tea
                <input type={"radio"} name={"selectOne"}/>
            </label>
            <label>
-               radio 3
+               Moroccan Mint Tea
                <input type={"radio"} name={"selectOne"}/>
            </label>
            <div>

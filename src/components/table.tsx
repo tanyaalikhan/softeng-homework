@@ -15,24 +15,24 @@ function table(){
                 </tr>
                 <tr>
                     <td>
-                        yum
+                        hiking
                     </td>
                     <td>
-                        yummy
+                        swimming
                     </td>
                     <td>
-                        yummIER
+                        diving
                     </td>
                 </tr>
                 <tr>
                     <td>
-                        gross
+                        reading
                     </td>
                     <td>
-                        grosser
+                        painting
                     </td>
                     <td>
-                        grossest
+                        crafting
                     </td>
                 </tr>
             </table>

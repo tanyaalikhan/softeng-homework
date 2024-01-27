@@ -4,19 +4,19 @@ function list(){
         <div>
             <ol className={"list"}>
                 <li>
-                    compression shirts
+                    Watch movies
                 </li>
                 <li>
-                    skinny jeans
+                    Painting
                 </li>
                 <li>
-                    turtle necks
+                    Reading
                 </li>
                 <li>
-                    long nails (double ick for pinky)
+                    Scuba Diving
                 </li>
                 <li>
-                    jumping
+                    Baking
                 </li>
             </ol>
         </div>
