@@ -4,7 +4,7 @@ function title() {
     return (
        <div>
            <h1 className={"names"}>
-               Aliaa and Tanya
+               Aliaa and Tanya's Hobbies
            </h1>
        </div>
     )
